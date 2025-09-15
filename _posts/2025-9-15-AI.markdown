@@ -1,5 +1,4 @@
------
-
+---
 layout: post
 title: "Hello AI World"
 subtitle: " "AI时代的序章""
@@ -8,12 +7,10 @@ author: "Melody"
 header-img: "img/post-bg-ai.jpg" \# Consider a new header image
 catalog: true
 tags:
-
   - AI
   - Embedded Systems
   - Technology
-
------
+---
 
 > “探索未知，从现在开始。”
 
